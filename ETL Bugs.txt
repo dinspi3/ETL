@@ -1,0 +1,11 @@
+
+ETL Bugs :
+
+1.Table structure issue
+2.Index unable to drop issue
+3.index is not created after job run
+4.Data issue in source table
+5.data count mismatch between source and target
+6.data not matching between source and target
+7.duplicate data loaded issue
+8.trim and null issue
